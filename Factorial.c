@@ -8,6 +8,7 @@ int fact(int n)
     else
         return n*fact(n-1);
 }
+// main function
 int main()
 {
     printf("Enter the number whose you want to find factorial ");
